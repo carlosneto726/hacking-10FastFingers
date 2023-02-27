@@ -4,8 +4,11 @@
 
 
 Nesse repositorio você vai encontrar dois scripts que faz com que o computador escreva por você.
+
 O app.py entra no 10FastFingers.com e começa a escrever pra você totalmente sozinho com uma media de 415wpm.
+
 Já no manualapp.py escreve qualquer coisa pré colocada no script, é mais lento mas imita a digitação humana.
+
 Esse scripts foram feitos com o intuito de aprender um pouco mais a respeito sobre Web Scraping e automação em Python.
 
 ![](screenshot.png)
@@ -17,10 +20,7 @@ Esse scripts foram feitos com o intuito de aprender um pouco mais a respeito sob
 
 ## Requisitos
 
-Python3.11 ou superior:
-```sh
-[python](https://www.python.org/downloads/)
-```
+[Python3.11 ou Superior](https://www.python.org/downloads/)
 
 Selenium:
 
