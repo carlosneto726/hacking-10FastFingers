@@ -1,4 +1,4 @@
-# [Hacking 10FastFingers.com](https://10fastfingers.com/typing-test/english)
+# Hacking [10FastFingers.com](https://10fastfingers.com/typing-test/english)
 
 > Escreva mais rapido que qualquer outro humano.
 
