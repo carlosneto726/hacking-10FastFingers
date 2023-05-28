@@ -28,7 +28,7 @@ while cont:
         inputwords.send_keys(w.text + " ")
 
     # Caixa de texto para saber se quer tentar de novo
-    c = pyautogui.confirm(text='Quer ir de novo?', title='Hack Typing Alert', buttons=['Sim', 'Nao'])
+    c = pyautogui.confirm(text='Espere o tempo acabar para ver o resultado \n Quer ir de novo?', title='Hack Typing Alert', buttons=['Sim', 'Nao'])
     if c == 'Nao':
         cont = False
 
