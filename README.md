@@ -11,6 +11,7 @@ Já no manualapp.py escreve qualquer coisa pré colocada no script, é mais lent
 
 Esse scripts foram feitos com o intuito de aprender um pouco mais a respeito sobre Web Scraping e automação em Python.
 
+![](example.gif)
 ![](screenshot.png)
 
 --------------------------------------------------
